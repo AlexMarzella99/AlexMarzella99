@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hi I'am Alex 👋
+## Ho lavorato in un progetto basato su tecnologia Oracle, esattamente CPQ
+## Conosco come linguaggi di programmazione Java, HTML, CSS e la base di Angual
 <!--
 **AlexMarzella99/AlexMarzella99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
